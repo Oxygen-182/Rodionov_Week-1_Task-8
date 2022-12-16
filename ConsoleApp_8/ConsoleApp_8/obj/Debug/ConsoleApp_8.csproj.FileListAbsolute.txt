@@ -1,0 +1,14 @@
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_8\ConsoleApp_8\bin\Debug\ConsoleApp_8.exe.config
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_8\ConsoleApp_8\bin\Debug\ConsoleApp_8.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_8\ConsoleApp_8\bin\Debug\ConsoleApp_8.pdb
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.csprojResolveAssemblyReference.cache
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.pdb
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\bin\Debug\ConsoleApp_8.exe.config
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.exe
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.pdb
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\bin\Debug\ConsoleApp_8.exe
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\bin\Debug\ConsoleApp_8.pdb
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.csproj.AssemblyReference.cache
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.csproj.SuggestedBindingRedirects.cache
+E:\УПК\Нед_3\Задание_8\ConsoleApp_8\ConsoleApp_8\obj\Debug\ConsoleApp_8.csproj.CoreCompileInputs.cache
